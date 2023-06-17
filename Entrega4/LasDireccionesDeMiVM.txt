@@ -1,0 +1,3 @@
+MAC 08:00:27:69:38:e3  
+ip privada:10.0.2.15
+Las ip privadas son diferentes mientras que la ip publica se mantiene pues acceden desde un mismo router
